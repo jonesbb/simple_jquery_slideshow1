@@ -1,7 +1,8 @@
 // Place your application-specific JavaScript functions and classes here
 // This file is automatically included by javascript_include_tag :defaults
 
-//Code from http://jonraasch.com/blog/a-simple-jquery-slideshow
+// Code from http://jonraasch.com/blog/a-simple-jquery-slideshow
+// Copyright (c) 2008 Jon Raasch (http://jonraasch.com/) 
 
 function slideSwitch() {
     var $active = $('#slideshow IMG.active');
